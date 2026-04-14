@@ -1,0 +1,282 @@
+lane_id,origin,destination,direction,avg_delay_days,delay_rate,avg_cost_variance,risk_tier
+AZ-FL,"Phoenix, AZ","Tampa, FL",inbound,1.3,0.8571,0.15,High
+AZ-FL,"Phoenix, AZ","Tampa, FL",outbound,-0.536,0.2727,-0.01,Low
+AZ-IN,"Phoenix, AZ","Indianapolis, IN",inbound,2.16,0.9,0.56,High
+AZ-IN,"Phoenix, AZ","Indianapolis, IN",outbound,0.833,0.6,0.65,Low
+AZ-KY,"Phoenix, AZ","Louisville, KY",inbound,0.7,0.75,0.34,Medium
+AZ-KY,"Phoenix, AZ","Louisville, KY",outbound,1.045,0.9091,0.48,High
+AZ-MD,"Phoenix, AZ","Baltimore, MD",inbound,1.86,0.8,0.05,Medium
+AZ-MD,"Phoenix, AZ","Baltimore, MD",outbound,0.494,0.5556,0.21,Low
+AZ-MN,"Phoenix, AZ","Minneapolis, MN",inbound,2.1,0.8333,0.59,High
+AZ-MN,"Phoenix, AZ","Minneapolis, MN",outbound,1.15,0.75,0.13,Medium
+AZ-MO,"Phoenix, AZ","Kansas City, MO",inbound,1.0,0.75,0.24,Medium
+AZ-MO,"Phoenix, AZ","Kansas City, MO",outbound,0.278,0.6667,0.11,Medium
+AZ-NC,"Phoenix, AZ","Charlotte, NC",inbound,1.24,0.6,0.15,Low
+AZ-NC,"Phoenix, AZ","Charlotte, NC",outbound,1.95,0.8571,0.25,High
+AZ-OH,"Phoenix, AZ","Columbus, OH",inbound,1.27,0.8,0.28,Medium
+AZ-OH,"Phoenix, AZ","Columbus, OH",outbound,0.329,0.7143,0.23,Medium
+AZ-OR,"Phoenix, AZ","Portland, OR",inbound,0.467,0.6667,0.28,Medium
+AZ-OR,"Phoenix, AZ","Portland, OR",outbound,1.327,0.8,0.56,Medium
+AZ-TN,"Phoenix, AZ","Nashville, TN",inbound,1.71,0.6,0.42,Low
+AZ-TN,"Phoenix, AZ","Nashville, TN",outbound,1.488,0.7059,0.29,Medium
+AZ-TX,"Phoenix, AZ","San Antonio, TX",inbound,0.967,0.6667,-0.05,Medium
+AZ-TX,"Phoenix, AZ","San Antonio, TX",outbound,0.625,0.6667,0.29,Medium
+AZ-UT,"Phoenix, AZ","Salt Lake City, UT",inbound,1.45,0.8571,0.21,High
+AZ-UT,"Phoenix, AZ","Salt Lake City, UT",outbound,1.838,0.8125,0.28,High
+CA-FL,"Los Angeles, CA","Tampa, FL",inbound,1.479,0.7143,0.19,Medium
+CA-FL,"Los Angeles, CA","Tampa, FL",outbound,0.65,0.5833,0.4,Low
+CA-IN,"Los Angeles, CA","Indianapolis, IN",inbound,1.217,0.9167,0.28,High
+CA-IN,"Los Angeles, CA","Indianapolis, IN",outbound,1.3,0.75,0.3,Medium
+CA-KY,"Los Angeles, CA","Louisville, KY",outbound,0.9,0.6667,0.3,Medium
+CA-MD,"Los Angeles, CA","Baltimore, MD",inbound,1.369,0.9231,0.32,High
+CA-MD,"Los Angeles, CA","Baltimore, MD",outbound,1.529,0.8571,0.32,High
+CA-MN,"Los Angeles, CA","Minneapolis, MN",inbound,1.844,0.6667,0.38,Medium
+CA-MN,"Los Angeles, CA","Minneapolis, MN",outbound,0.29,0.5,0.33,Low
+CA-MO,"Los Angeles, CA","Kansas City, MO",inbound,1.057,0.7143,0.03,Medium
+CA-MO,"Los Angeles, CA","Kansas City, MO",outbound,0.271,0.7143,0.29,Medium
+CA-NC,"Los Angeles, CA","Charlotte, NC",inbound,0.6,0.3333,0.28,Low
+CA-NC,"Los Angeles, CA","Charlotte, NC",outbound,0.427,0.4667,0.29,Low
+CA-OH,"Los Angeles, CA","Columbus, OH",inbound,1.375,0.875,0.14,High
+CA-OH,"Los Angeles, CA","Columbus, OH",outbound,1.71,0.9,0.22,High
+CA-OR,"Los Angeles, CA","Portland, OR",inbound,1.888,1.0,0.32,High
+CA-OR,"Los Angeles, CA","Portland, OR",outbound,0.56,0.6,0.29,Low
+CA-TN,"Los Angeles, CA","Nashville, TN",inbound,1.225,0.75,0.18,Medium
+CA-TN,"Los Angeles, CA","Nashville, TN",outbound,0.275,0.5,0.32,Low
+CA-TX,"Los Angeles, CA","San Antonio, TX",inbound,1.829,0.8571,0.38,High
+CA-TX,"Los Angeles, CA","San Antonio, TX",outbound,0.927,0.7273,0.17,Medium
+CA-UT,"Los Angeles, CA","Salt Lake City, UT",inbound,0.808,0.5,0.39,Low
+CA-UT,"Los Angeles, CA","Salt Lake City, UT",outbound,1.718,0.8182,0.49,High
+CO-FL,"Denver, CO","Tampa, FL",inbound,0.644,0.5556,0.17,Low
+CO-FL,"Denver, CO","Tampa, FL",outbound,0.867,0.8333,0.31,High
+CO-IN,"Denver, CO","Indianapolis, IN",inbound,2.317,1.0,0.72,High
+CO-IN,"Denver, CO","Indianapolis, IN",outbound,0.373,0.8,0.28,Medium
+CO-KY,"Denver, CO","Louisville, KY",outbound,0.067,0.4444,0.22,Low
+CO-MD,"Denver, CO","Baltimore, MD",inbound,1.56,1.0,0.07,High
+CO-MD,"Denver, CO","Baltimore, MD",outbound,1.433,0.9167,0.42,High
+CO-MN,"Denver, CO","Minneapolis, MN",inbound,1.022,0.6667,0.34,Medium
+CO-MN,"Denver, CO","Minneapolis, MN",outbound,1.533,0.6667,0.54,Medium
+CO-MO,"Denver, CO","Kansas City, MO",inbound,2.92,1.0,0.36,High
+CO-MO,"Denver, CO","Kansas City, MO",outbound,1.691,0.7273,0.45,Medium
+CO-NC,"Denver, CO","Charlotte, NC",inbound,1.071,0.8571,0.31,High
+CO-NC,"Denver, CO","Charlotte, NC",outbound,1.773,0.6364,0.49,Low
+CO-OH,"Denver, CO","Columbus, OH",inbound,0.99,0.9,0.26,High
+CO-OH,"Denver, CO","Columbus, OH",outbound,1.24,0.8,0.5,Medium
+CO-OR,"Denver, CO","Portland, OR",inbound,1.22,0.8,0.08,Medium
+CO-OR,"Denver, CO","Portland, OR",outbound,0.821,0.6429,0.27,Low
+CO-TN,"Denver, CO","Nashville, TN",inbound,0.743,0.5714,0.45,Low
+CO-TN,"Denver, CO","Nashville, TN",outbound,0.056,0.4444,0.03,Low
+CO-TX,"Denver, CO","San Antonio, TX",inbound,1.114,0.7143,0.23,Medium
+CO-TX,"Denver, CO","San Antonio, TX",outbound,0.892,0.6923,0.31,Medium
+CO-UT,"Denver, CO","Salt Lake City, UT",inbound,1.345,0.6364,0.2,Low
+CO-UT,"Denver, CO","Salt Lake City, UT",outbound,1.225,0.625,0.22,Low
+FL-FL,"Miami, FL","Tampa, FL",inbound,1.58,1.0,0.2,High
+FL-FL,"Miami, FL","Tampa, FL",outbound,0.267,0.4167,0.3,Low
+FL-IN,"Miami, FL","Indianapolis, IN",inbound,0.843,0.5714,0.18,Low
+FL-IN,"Miami, FL","Indianapolis, IN",outbound,1.054,0.6154,0.37,Low
+FL-KY,"Miami, FL","Louisville, KY",inbound,0.55,0.625,0.27,Low
+FL-KY,"Miami, FL","Louisville, KY",outbound,0.307,0.6429,0.06,Low
+FL-MD,"Miami, FL","Baltimore, MD",inbound,0.686,0.8571,0.04,High
+FL-MD,"Miami, FL","Baltimore, MD",outbound,0.886,0.7143,0.21,Medium
+FL-MN,"Miami, FL","Minneapolis, MN",inbound,1.382,0.8182,0.37,High
+FL-MN,"Miami, FL","Minneapolis, MN",outbound,1.2,0.9,0.08,High
+FL-MO,"Miami, FL","Kansas City, MO",inbound,1.982,0.9091,0.46,High
+FL-MO,"Miami, FL","Kansas City, MO",outbound,-0.125,0.375,0.18,Low
+FL-NC,"Miami, FL","Charlotte, NC",inbound,1.4,0.5882,0.31,Low
+FL-NC,"Miami, FL","Charlotte, NC",outbound,0.518,0.5882,0.34,Low
+FL-OH,"Miami, FL","Columbus, OH",inbound,0.858,0.75,0.14,Medium
+FL-OH,"Miami, FL","Columbus, OH",outbound,0.257,0.4286,0.4,Low
+FL-OR,"Miami, FL","Portland, OR",inbound,1.4,0.9,0.44,High
+FL-OR,"Miami, FL","Portland, OR",outbound,0.42,0.6,0.43,Low
+FL-TN,"Miami, FL","Nashville, TN",inbound,1.444,0.6667,0.16,Medium
+FL-TN,"Miami, FL","Nashville, TN",outbound,1.455,0.7273,0.2,Medium
+FL-TX,"Miami, FL","San Antonio, TX",inbound,1.385,0.7692,0.35,Medium
+FL-TX,"Miami, FL","San Antonio, TX",outbound,1.045,0.5455,0.22,Low
+FL-UT,"Miami, FL","Salt Lake City, UT",inbound,1.064,0.5455,0.49,Low
+FL-UT,"Miami, FL","Salt Lake City, UT",outbound,1.255,0.8182,0.25,High
+GA-FL,"Atlanta, GA","Tampa, FL",inbound,1.057,0.7143,0.09,Medium
+GA-FL,"Atlanta, GA","Tampa, FL",outbound,0.782,0.6364,0.49,Low
+GA-IN,"Atlanta, GA","Indianapolis, IN",inbound,1.01,0.8,0.48,Medium
+GA-IN,"Atlanta, GA","Indianapolis, IN",outbound,0.85,0.6111,0.08,Low
+GA-KY,"Atlanta, GA","Louisville, KY",inbound,0.84,0.7,0.55,Medium
+GA-KY,"Atlanta, GA","Louisville, KY",outbound,1.665,0.75,0.38,Medium
+GA-MD,"Atlanta, GA","Baltimore, MD",inbound,1.889,0.8889,0.63,High
+GA-MD,"Atlanta, GA","Baltimore, MD",outbound,0.4,0.6667,0.13,Medium
+GA-MN,"Atlanta, GA","Minneapolis, MN",inbound,0.867,0.5556,0.51,Low
+GA-MN,"Atlanta, GA","Minneapolis, MN",outbound,1.033,0.6667,0.3,Medium
+GA-MO,"Atlanta, GA","Kansas City, MO",inbound,1.031,0.4615,0.35,Low
+GA-MO,"Atlanta, GA","Kansas City, MO",outbound,1.215,0.7692,0.45,Medium
+GA-NC,"Atlanta, GA","Charlotte, NC",inbound,1.086,0.7143,0.27,Medium
+GA-NC,"Atlanta, GA","Charlotte, NC",outbound,1.781,0.9375,0.19,High
+GA-OH,"Atlanta, GA","Columbus, OH",inbound,0.97,0.7,0.02,Medium
+GA-OH,"Atlanta, GA","Columbus, OH",outbound,0.7,0.6429,0.16,Low
+GA-OR,"Atlanta, GA","Portland, OR",inbound,0.517,0.6667,0.8,Medium
+GA-OR,"Atlanta, GA","Portland, OR",outbound,0.55,0.6,0.29,Low
+GA-TN,"Atlanta, GA","Nashville, TN",inbound,1.58,0.8,0.77,Medium
+GA-TN,"Atlanta, GA","Nashville, TN",outbound,1.462,0.6923,0.48,Medium
+GA-TX,"Atlanta, GA","San Antonio, TX",inbound,1.29,0.9,0.41,High
+GA-TX,"Atlanta, GA","San Antonio, TX",outbound,2.15,0.8333,0.76,High
+GA-UT,"Atlanta, GA","Salt Lake City, UT",inbound,2.122,0.8889,0.26,High
+GA-UT,"Atlanta, GA","Salt Lake City, UT",outbound,0.56,0.6,0.38,Low
+IL-FL,"Chicago, IL","Tampa, FL",inbound,0.6,0.7143,0.62,Medium
+IL-FL,"Chicago, IL","Tampa, FL",outbound,1.54,0.7,0.33,Medium
+IL-IN,"Chicago, IL","Indianapolis, IN",inbound,0.4,0.5556,0.52,Low
+IL-IN,"Chicago, IL","Indianapolis, IN",outbound,1.92,1.0,0.19,High
+IL-KY,"Chicago, IL","Louisville, KY",inbound,1.3,0.75,0.26,Medium
+IL-KY,"Chicago, IL","Louisville, KY",outbound,1.51,0.8,0.44,Medium
+IL-MD,"Chicago, IL","Baltimore, MD",inbound,2.02,1.0,0.38,High
+IL-MD,"Chicago, IL","Baltimore, MD",outbound,1.227,0.7333,0.49,Medium
+IL-MN,"Chicago, IL","Minneapolis, MN",inbound,1.062,0.75,0.38,Medium
+IL-MN,"Chicago, IL","Minneapolis, MN",outbound,1.455,0.6364,0.42,Low
+IL-MO,"Chicago, IL","Kansas City, MO",inbound,1.867,0.6667,0.18,Medium
+IL-MO,"Chicago, IL","Kansas City, MO",outbound,1.056,0.5,0.28,Low
+IL-NC,"Chicago, IL","Charlotte, NC",inbound,2.013,0.75,0.89,Medium
+IL-NC,"Chicago, IL","Charlotte, NC",outbound,0.786,0.8571,0.04,High
+IL-OH,"Chicago, IL","Columbus, OH",inbound,1.01,0.7,0.15,Medium
+IL-OH,"Chicago, IL","Columbus, OH",outbound,2.267,1.0,0.17,High
+IL-OR,"Chicago, IL","Portland, OR",inbound,1.0,0.5455,0.45,Low
+IL-OR,"Chicago, IL","Portland, OR",outbound,1.923,0.8462,0.03,High
+IL-TN,"Chicago, IL","Nashville, TN",inbound,0.833,0.8333,0.59,High
+IL-TN,"Chicago, IL","Nashville, TN",outbound,0.933,0.8889,0.03,High
+IL-TX,"Chicago, IL","San Antonio, TX",inbound,2.24,0.6,0.34,Low
+IL-TX,"Chicago, IL","San Antonio, TX",outbound,0.712,0.625,0.58,Low
+IL-UT,"Chicago, IL","Salt Lake City, UT",inbound,1.011,0.7778,0.09,Medium
+IL-UT,"Chicago, IL","Salt Lake City, UT",outbound,1.557,0.6429,0.17,Low
+MI-FL,"Detroit, MI","Tampa, FL",inbound,2.1,0.8333,0.22,High
+MI-FL,"Detroit, MI","Tampa, FL",outbound,0.98,0.6,0.0,Low
+MI-IN,"Detroit, MI","Indianapolis, IN",inbound,0.712,0.5,0.12,Low
+MI-IN,"Detroit, MI","Indianapolis, IN",outbound,1.32,0.8,0.53,Medium
+MI-KY,"Detroit, MI","Louisville, KY",inbound,0.62,0.6,1.19,Low
+MI-KY,"Detroit, MI","Louisville, KY",outbound,1.038,0.625,0.36,Low
+MI-MD,"Detroit, MI","Baltimore, MD",outbound,0.227,0.5455,0.23,Low
+MI-MN,"Detroit, MI","Minneapolis, MN",inbound,1.585,0.7692,0.27,Medium
+MI-MN,"Detroit, MI","Minneapolis, MN",outbound,0.633,0.8333,0.31,High
+MI-MO,"Detroit, MI","Kansas City, MO",inbound,1.692,0.9231,0.06,High
+MI-MO,"Detroit, MI","Kansas City, MO",outbound,0.877,0.5385,0.26,Low
+MI-NC,"Detroit, MI","Charlotte, NC",inbound,1.156,0.875,0.21,High
+MI-NC,"Detroit, MI","Charlotte, NC",outbound,0.167,0.3333,0.29,Low
+MI-OH,"Detroit, MI","Columbus, OH",inbound,1.071,0.7143,0.07,Medium
+MI-OH,"Detroit, MI","Columbus, OH",outbound,2.19,0.8,0.41,Medium
+MI-OR,"Detroit, MI","Portland, OR",inbound,0.8,0.8333,-0.01,High
+MI-OR,"Detroit, MI","Portland, OR",outbound,1.1,0.7647,0.24,Medium
+MI-TN,"Detroit, MI","Nashville, TN",inbound,0.675,0.75,0.41,Medium
+MI-TN,"Detroit, MI","Nashville, TN",outbound,0.967,0.7778,0.37,Medium
+MI-TX,"Detroit, MI","San Antonio, TX",inbound,2.07,0.9,0.26,High
+MI-TX,"Detroit, MI","San Antonio, TX",outbound,0.333,0.5,0.21,Low
+MI-UT,"Detroit, MI","Salt Lake City, UT",inbound,2.1,0.7778,0.1,Medium
+MI-UT,"Detroit, MI","Salt Lake City, UT",outbound,0.291,0.5455,0.52,Low
+NY-FL,"New York, NY","Tampa, FL",inbound,1.127,0.7333,0.21,Medium
+NY-FL,"New York, NY","Tampa, FL",outbound,2.192,0.9231,0.49,High
+NY-IN,"New York, NY","Indianapolis, IN",inbound,0.969,0.8125,0.18,High
+NY-IN,"New York, NY","Indianapolis, IN",outbound,0.9,0.7,0.78,Medium
+NY-KY,"New York, NY","Louisville, KY",inbound,0.489,0.6667,0.38,Medium
+NY-KY,"New York, NY","Louisville, KY",outbound,2.346,0.9231,0.26,High
+NY-MD,"New York, NY","Baltimore, MD",inbound,2.623,0.8462,0.48,High
+NY-MD,"New York, NY","Baltimore, MD",outbound,1.729,0.8571,0.39,High
+NY-MN,"New York, NY","Minneapolis, MN",inbound,1.058,0.5833,0.13,Low
+NY-MN,"New York, NY","Minneapolis, MN",outbound,1.133,0.75,0.21,Medium
+NY-MO,"New York, NY","Kansas City, MO",inbound,0.993,0.8667,0.1,High
+NY-MO,"New York, NY","Kansas City, MO",outbound,-0.03,0.3,0.18,Low
+NY-NC,"New York, NY","Charlotte, NC",inbound,2.518,1.0,0.36,High
+NY-NC,"New York, NY","Charlotte, NC",outbound,1.15,0.8571,0.19,High
+NY-OH,"New York, NY","Columbus, OH",inbound,1.06,0.9,0.36,High
+NY-OH,"New York, NY","Columbus, OH",outbound,1.06,0.7,0.32,Medium
+NY-OR,"New York, NY","Portland, OR",inbound,1.74,1.0,0.34,High
+NY-OR,"New York, NY","Portland, OR",outbound,0.291,0.5455,0.2,Low
+NY-TN,"New York, NY","Nashville, TN",inbound,1.973,0.9091,0.18,High
+NY-TN,"New York, NY","Nashville, TN",outbound,0.867,0.75,0.43,Medium
+NY-TX,"New York, NY","San Antonio, TX",inbound,0.907,0.8571,0.29,High
+NY-TX,"New York, NY","San Antonio, TX",outbound,0.55,0.6429,0.3,Low
+NY-UT,"New York, NY","Salt Lake City, UT",inbound,1.321,0.8571,0.46,High
+NY-UT,"New York, NY","Salt Lake City, UT",outbound,0.713,0.625,-0.0,Low
+TN-FL,"Memphis, TN","Tampa, FL",inbound,1.08,0.8,0.53,Medium
+TN-FL,"Memphis, TN","Tampa, FL",outbound,0.412,0.5,0.04,Low
+TN-IN,"Memphis, TN","Indianapolis, IN",inbound,1.709,1.0,0.14,High
+TN-IN,"Memphis, TN","Indianapolis, IN",outbound,1.378,0.6667,0.49,Medium
+TN-KY,"Memphis, TN","Louisville, KY",inbound,1.9,0.9286,0.54,High
+TN-KY,"Memphis, TN","Louisville, KY",outbound,1.475,0.6667,0.25,Medium
+TN-MD,"Memphis, TN","Baltimore, MD",inbound,0.417,0.6667,0.18,Medium
+TN-MD,"Memphis, TN","Baltimore, MD",outbound,0.112,0.625,0.29,Low
+TN-MN,"Memphis, TN","Minneapolis, MN",inbound,2.15,0.75,0.69,Medium
+TN-MN,"Memphis, TN","Minneapolis, MN",outbound,0.647,0.6667,0.38,Medium
+TN-MO,"Memphis, TN","Kansas City, MO",inbound,2.15,1.0,0.06,High
+TN-MO,"Memphis, TN","Kansas City, MO",outbound,1.511,0.7778,0.42,Medium
+TN-NC,"Memphis, TN","Charlotte, NC",inbound,0.47,0.6,0.13,Low
+TN-NC,"Memphis, TN","Charlotte, NC",outbound,0.712,0.625,0.01,Low
+TN-OH,"Memphis, TN","Columbus, OH",outbound,0.8,0.6154,0.39,Low
+TN-OR,"Memphis, TN","Portland, OR",inbound,0.718,0.6364,0.26,Low
+TN-OR,"Memphis, TN","Portland, OR",outbound,0.125,0.5833,0.14,Low
+TN-TN,"Memphis, TN","Nashville, TN",inbound,2.5,1.0,0.38,High
+TN-TN,"Memphis, TN","Nashville, TN",outbound,0.329,0.7143,0.33,Medium
+TN-TX,"Memphis, TN","San Antonio, TX",outbound,0.655,0.4545,0.22,Low
+TN-UT,"Memphis, TN","Salt Lake City, UT",inbound,1.964,0.7273,0.55,Medium
+TN-UT,"Memphis, TN","Salt Lake City, UT",outbound,1.456,0.6667,0.2,Medium
+TX-FL,"Dallas, TX","Tampa, FL",inbound,2.471,1.0,0.16,High
+TX-FL,"Dallas, TX","Tampa, FL",outbound,0.91,0.8,0.24,Medium
+TX-FL,"Houston, TX","Tampa, FL",inbound,0.808,0.6923,0.39,Medium
+TX-FL,"Houston, TX","Tampa, FL",outbound,1.133,0.75,0.31,Medium
+TX-IN,"Dallas, TX","Indianapolis, IN",inbound,1.514,0.8571,0.34,High
+TX-IN,"Dallas, TX","Indianapolis, IN",outbound,0.55,0.5,0.04,Low
+TX-IN,"Houston, TX","Indianapolis, IN",inbound,1.433,0.7778,0.47,Medium
+TX-IN,"Houston, TX","Indianapolis, IN",outbound,2.217,0.8333,0.31,High
+TX-KY,"Dallas, TX","Louisville, KY",inbound,0.386,0.5714,0.2,Low
+TX-KY,"Dallas, TX","Louisville, KY",outbound,0.18,0.4,0.49,Low
+TX-KY,"Houston, TX","Louisville, KY",inbound,1.194,0.8125,0.46,High
+TX-KY,"Houston, TX","Louisville, KY",outbound,1.127,0.7333,0.24,Medium
+TX-MD,"Dallas, TX","Baltimore, MD",inbound,0.973,0.6,0.27,Low
+TX-MD,"Dallas, TX","Baltimore, MD",outbound,1.82,0.8,0.14,Medium
+TX-MD,"Houston, TX","Baltimore, MD",inbound,1.045,0.8182,0.05,High
+TX-MD,"Houston, TX","Baltimore, MD",outbound,1.243,0.7857,0.28,Medium
+TX-MN,"Dallas, TX","Minneapolis, MN",inbound,1.309,0.5455,0.33,Low
+TX-MN,"Dallas, TX","Minneapolis, MN",outbound,0.664,0.6364,0.2,Low
+TX-MN,"Houston, TX","Minneapolis, MN",inbound,1.164,0.5455,0.54,Low
+TX-MN,"Houston, TX","Minneapolis, MN",outbound,0.64,0.6,0.3,Low
+TX-MO,"Dallas, TX","Kansas City, MO",inbound,1.562,0.625,0.53,Low
+TX-MO,"Dallas, TX","Kansas City, MO",outbound,1.077,0.6923,0.39,Medium
+TX-MO,"Houston, TX","Kansas City, MO",inbound,2.2,0.8889,0.29,High
+TX-NC,"Dallas, TX","Charlotte, NC",inbound,2.521,0.9286,0.33,High
+TX-NC,"Dallas, TX","Charlotte, NC",outbound,-0.137,0.25,0.29,Low
+TX-NC,"Houston, TX","Charlotte, NC",inbound,1.762,0.8462,0.4,High
+TX-NC,"Houston, TX","Charlotte, NC",outbound,1.088,0.875,-0.01,High
+TX-OH,"Dallas, TX","Columbus, OH",inbound,1.538,0.875,0.32,High
+TX-OH,"Dallas, TX","Columbus, OH",outbound,0.72,0.7333,0.44,Medium
+TX-OH,"Houston, TX","Columbus, OH",inbound,1.975,0.75,0.5,Medium
+TX-OH,"Houston, TX","Columbus, OH",outbound,0.925,0.7,0.27,Medium
+TX-OR,"Dallas, TX","Portland, OR",inbound,0.2,0.6,0.44,Low
+TX-OR,"Dallas, TX","Portland, OR",outbound,0.921,0.5714,0.27,Low
+TX-OR,"Houston, TX","Portland, OR",inbound,0.792,0.6667,0.27,Medium
+TX-OR,"Houston, TX","Portland, OR",outbound,0.622,0.6667,0.26,Medium
+TX-TN,"Dallas, TX","Nashville, TN",inbound,1.843,0.7857,0.57,Medium
+TX-TN,"Dallas, TX","Nashville, TN",outbound,1.242,0.5833,0.31,Low
+TX-TN,"Houston, TX","Nashville, TN",inbound,1.35,0.8333,0.15,High
+TX-TN,"Houston, TX","Nashville, TN",outbound,0.56,0.6,0.38,Low
+TX-TX,"Dallas, TX","San Antonio, TX",inbound,0.712,0.625,0.53,Low
+TX-TX,"Dallas, TX","San Antonio, TX",outbound,0.525,0.5833,0.16,Low
+TX-TX,"Houston, TX","San Antonio, TX",inbound,1.017,0.6667,0.16,Medium
+TX-TX,"Houston, TX","San Antonio, TX",outbound,0.8,0.8571,0.24,High
+TX-UT,"Dallas, TX","Salt Lake City, UT",inbound,1.738,1.0,0.09,High
+TX-UT,"Houston, TX","Salt Lake City, UT",inbound,1.589,1.0,0.5,High
+TX-UT,"Houston, TX","Salt Lake City, UT",outbound,1.233,0.6667,0.46,Medium
+WA-FL,"Seattle, WA","Tampa, FL",inbound,1.111,0.5556,0.21,Low
+WA-FL,"Seattle, WA","Tampa, FL",outbound,1.289,0.5789,0.3,Low
+WA-IN,"Seattle, WA","Indianapolis, IN",inbound,1.618,0.8182,0.34,High
+WA-IN,"Seattle, WA","Indianapolis, IN",outbound,0.644,0.5,0.48,Low
+WA-KY,"Seattle, WA","Louisville, KY",inbound,2.412,0.875,0.4,High
+WA-KY,"Seattle, WA","Louisville, KY",outbound,1.92,1.0,0.31,High
+WA-MD,"Seattle, WA","Baltimore, MD",inbound,1.833,0.8889,0.21,High
+WA-MD,"Seattle, WA","Baltimore, MD",outbound,0.865,0.6471,0.6,Low
+WA-MN,"Seattle, WA","Minneapolis, MN",inbound,1.73,0.8,-0.12,Medium
+WA-MN,"Seattle, WA","Minneapolis, MN",outbound,1.263,0.875,0.14,High
+WA-MO,"Seattle, WA","Kansas City, MO",inbound,2.162,0.75,0.16,Medium
+WA-MO,"Seattle, WA","Kansas City, MO",outbound,0.48,0.7,0.23,Medium
+WA-NC,"Seattle, WA","Charlotte, NC",inbound,0.7,0.625,0.09,Low
+WA-NC,"Seattle, WA","Charlotte, NC",outbound,0.475,0.625,0.29,Low
+WA-OH,"Seattle, WA","Columbus, OH",inbound,0.6,0.5,0.51,Low
+WA-OH,"Seattle, WA","Columbus, OH",outbound,0.654,0.7692,0.23,Medium
+WA-OR,"Seattle, WA","Portland, OR",inbound,1.943,0.9286,0.29,High
+WA-OR,"Seattle, WA","Portland, OR",outbound,0.885,0.6923,0.29,Medium
+WA-TN,"Seattle, WA","Nashville, TN",inbound,1.425,0.75,0.25,Medium
+WA-TN,"Seattle, WA","Nashville, TN",outbound,1.292,0.75,0.36,Medium
+WA-TX,"Seattle, WA","San Antonio, TX",inbound,0.89,0.8,0.0,Medium
+WA-TX,"Seattle, WA","San Antonio, TX",outbound,0.309,0.5455,0.33,Low
+WA-UT,"Seattle, WA","Salt Lake City, UT",inbound,0.7,0.75,0.24,Medium
+WA-UT,"Seattle, WA","Salt Lake City, UT",outbound,0.245,0.5455,0.18,Low
